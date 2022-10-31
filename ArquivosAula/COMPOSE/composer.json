@@ -1,0 +1,14 @@
+{
+    "name": "teste/composer",
+    "description": "Aprendendo composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Thamyres Magalhães",
+            "email": "thamyres.magalhaes@uerj.br"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.1"
+    }
+}
